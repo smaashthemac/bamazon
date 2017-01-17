@@ -1,7 +1,12 @@
-# bamazon
+# Bamazon
 
-Bamazon is an Amazon-esque app that takes in orders from customers and depletes stock based on the store's inventory. 
+Bamazon is an Amazon-esque app that takes in orders through Node from customers and depletes stock (stored in a MySQL database) based on the store's inventory. 
 
-It utilizes JavaScript, My SQL, and NPM packages.
+This project was created as an assignment for the Coding Bootcamp at UT Austin.\
 
-This was made as a project for the Coding Bootcamp at UT Austin.
+# Technologies Used
+
+- Javascript
+- Node
+- MySQL
+- NPM
